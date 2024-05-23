@@ -1,16 +1,26 @@
 # Installation de WebElem
 
-Ce guide vous aidera à cloner et déployer le dépôt WebElem sur OnRender.
+Ce guide vous aidera à cloner et déployer le dépôt WebElem sur différentes plateformes.
 
-## Étapes pour cloner le dépôt sur OnRender
+## Étapes pour cloner le dépôt
 
-1. Cliquez sur le bouton ci-dessous pour cloner le dépôt sur OnRender.
+### Déployer sur OnRender
+
+Cliquez sur le bouton ci-dessous pour cloner le dépôt sur OnRender.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tucommenceapousser/webelem)
 
-2. Suivez les instructions à l'écran pour configurer votre service.
+### Déployer sur Glitch
 
-3. Une fois le déploiement terminé, votre instance de WebElem sera opérationnelle sur OnRender.
+Cliquez sur le bouton ci-dessous pour cloner le dépôt sur Glitch.
+
+[![Remix on Glitch](https://button.glitch.me/button)](https://glitch.com/edit/#!/import/github/tucommenceapousser/webelem)
+
+### Déployer sur Replit
+
+Cliquez sur le bouton ci-dessous pour cloner le dépôt sur Replit.
+
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/webelem)](https://replit.com/github/tucommenceapousser/webelem)
 
 ## Lien vers le dépôt
 
